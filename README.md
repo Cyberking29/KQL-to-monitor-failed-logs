@@ -1,0 +1,1 @@
+# KQL-to-monitor-failed-logs
